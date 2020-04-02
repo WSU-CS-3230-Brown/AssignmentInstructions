@@ -23,7 +23,7 @@ Workflow for turning in assignments:
    1. ![settings](images/repo-settings.png)
    2. ![collaborators](images/repo-collaborators.png)
    3. ![add collaborator](images/repo-add-collaborator.png)
-3. I recommend adding a [c# .gitignore file](https://www.gitignore.io/api/csharp)
+3. I recommend adding a [java .gitignore file](https://www.gitignore.io/api/java)
 4. Make frequent commits as you work on the assignment (this helps me track your progress and offer feedback)
 5. When the assignment is completed, copy the link to the repo and submit it for the assignment submission
 
