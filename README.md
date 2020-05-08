@@ -21,17 +21,25 @@ Workflow for turning in assignments:
 1. Create a new **private repo** in github for the assignment. You can name it whatever you like but I recommend something like: `cs3280Assignment1`
 2. Add `ethanbrown3` as a collaborator to that repo
    1. ![settings](images/repo-settings.png)
-   2. ![collaborators](images/repo-collaborators.png)
-   3. ![add collaborator](images/repo-add-collaborator.png)
+   2. ![manage access](images/repo-manage-access.png)
+   3. ![invite collaborator](images/repo-invite-collaborator.png)
+   4. ![add collaborator](images/repo-select-collaborator.png)
+      * The green button will not be grayed out after you select my username. 
 3. I recommend adding a [java .gitignore file](https://www.gitignore.io/api/java)
 4. Make frequent commits as you work on the assignment (this helps me track your progress and offer feedback)
 5. When the assignment is completed, copy the link to the repo and submit it for the assignment submission
 
 > **WARNING:** Please don't forget to make your repo private. If it is not private I won't grade it. We'll talk about public repos and open source projects for the final project.
 
+## Runnable Jar ##
+
+All assignments should include a completed runnable/executable jar in your repo. You may need to make sure your gitignore doesn't ignore them.
+
+Instructions for creating a runnable jar:
+* from the command-line: https://introcs.cs.princeton.edu/java/85application/jar/jar.html
+* from intellij: https://www.jetbrains.com/help/idea/packaging-a-module-into-a-jar-file.html
+
 ## Rubric ##
-
-
 
 * Program Correctness - 50%
   * Program always works correctly according the specifications
