@@ -21,20 +21,20 @@ CS 3230 assignment instructions. I will be adding instructions and any necessary
 
 ## Turning In Assignments ##
 
-All assignments will be turned in using github.
+All assignments will be turned in using github pull requests. You will create a single repo and use branches for each assignment.
 
-Workflow for turning in assignments:
-
-1. Create a new **private repo** in github for the assignment. You can name it whatever you like but I recommend something like: `cs3280Assignment1`
+1. Create a new **private repo** in github for the assignment. You can name it whatever you like but I recommend something like: `cs3280Assignments`
 2. Add `ethanbrown3` as a collaborator to that repo
    1. ![settings](images/repo-settings.png)
    2. ![manage access](images/repo-manage-access.png)
    3. ![invite collaborator](images/repo-invite-collaborator.png)
    4. ![add collaborator](images/repo-select-collaborator.png)
       * The green button will not be grayed out after you select my username. 
-3. I recommend adding a [java .gitignore file](https://www.gitignore.io/api/java)
-4. Make frequent commits as you work on the assignment (this helps me track your progress and offer feedback)
-5. When the assignment is completed, copy the link to the repo and submit it for the assignment submission
+3. Add a .gitignore file - [java-intellij-gitignore](https://www.gitignore.io/api/java,windows,intellij,macos)
+4. For each assignment checkout at new branch.
+5. Make frequent commits as you work on the assignment (this helps me track your progress and offer feedback)
+6. When the assignment is completed, create a pull request in your github repo and be sure to put any information you think I need about your assignment in the comment box and set me as the reviewer.
+7. Submit the link to the pull request on canvas.
 
 > **WARNING:** Please don't forget to make your repo private. If it is not private I won't grade it.
 
