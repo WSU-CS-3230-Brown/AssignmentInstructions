@@ -35,15 +35,7 @@ Workflow for turning in assignments:
 4. Make frequent commits as you work on the assignment (this helps me track your progress and offer feedback)
 5. When the assignment is completed, copy the link to the repo and submit it for the assignment submission
 
-> **WARNING:** Please don't forget to make your repo private. If it is not private I won't grade it. We'll talk about public repos and open source projects for the final project.
-
-## Runnable Jar ##
-
-All assignments should include a completed runnable/executable jar in your repo. You may need to make sure your gitignore doesn't ignore them.
-
-Instructions for creating a runnable jar:
-* from the command-line: https://introcs.cs.princeton.edu/java/85application/jar/jar.html
-* from intellij: https://www.jetbrains.com/help/idea/packaging-a-module-into-a-jar-file.html
+> **WARNING:** Please don't forget to make your repo private. If it is not private I won't grade it.
 
 ## Rubric ##
 
