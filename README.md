@@ -4,12 +4,18 @@ CS 3230 assignment instructions. I will be adding instructions and any necessary
 
 ## Links to assignment instructions ##
 
-0. [Git Activity](GitActivity.md)
-1. [Assignment 1 Instructions](Assignment1.md)
-2. [Assignment 2 Instructions](Assignment2.md)
-3. [Assignment 3 Instructions](Assignment3.md)
-4. [Assignment 4 Instructions](Assignment4.md)
-5. [Assignment 5 Instructions](Assignment5.md)
+### In-Class Exercise Instructions and Files ###
+
+1. [Git Activity](in-class-exercises/01GitActivity.md)
+2. [Git Visualizer](in-class-exercises/02GitVisualizer.md)
+
+### Assignment Instructions ###
+
+1. [Assignment 1 Instructions](assignments/Assignment1.md)
+2. [Assignment 2 Instructions](assignments/Assignment2.md)
+3. [Assignment 3 Instructions](assignments/Assignment3.md)
+4. [Assignment 4 Instructions](assignments/Assignment4.md)
+5. [Assignment 5 Instructions](assignments/Assignment5.md)
 6. [Final Project Instructions](FinalProject.md)
 
 ## Turning In Assignments ##
@@ -58,4 +64,4 @@ Instructions for creating a runnable jar:
   * etc.
 * Documentation - 10%
   * Public methods are commented well
-  * Classes and custom types are commented well
+  * Classes are commented well
