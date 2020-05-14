@@ -8,7 +8,7 @@ CS 3230 assignment instructions. I will be adding instructions and any necessary
 
 1. [Git Activity](in-class-exercises/01GitActivity.md)
 2. [Git Visualizer](in-class-exercises/02GitVisualizer.md)
-3. [Java Basics](in-class-exercises/03JavaBasics.md)
+3. [Java Getting Started](in-class-exercises/03JavaGettingStarted.md)
 
 ### Assignment Instructions ###
 
