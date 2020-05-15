@@ -16,3 +16,9 @@ You will then perform the following operations on the list of integers and print
     > Min: 1
 
 Submit your github repo url and be sure to add me as a contributor so I can view it.
+
+### Helpful links:
+
+* [java jar instructions](https://introcs.cs.princeton.edu/java/85application/jar/jar.html)
+* [java cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+* [java math](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
