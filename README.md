@@ -37,7 +37,7 @@ All assignments will be turned in using github pull requests. You will create a 
     > git push -u origin assignment1
     ```
 5. Make frequent commits as you work on the assignment (this helps me track your progress and offer feedback)
-6. When the assignment is completed, create a pull request in your github repo and be sure to put any information you think I need about your assignment in the comment box and set me as the reviewer.
+6. When the assignment is completed, [create a pull request](PullRequests.md) in your github repo and be sure to put any information you think I need about your assignment in the comment box and set me as the reviewer.
 7. Submit the link to the pull request on the assignment in canvas.
 
 > **WARNING:** Please don't forget to make your repo private. If it is not private I won't grade it.
