@@ -15,7 +15,7 @@ You will then perform the following operations on the list of integers and print
 5. Min
     > Min: 1
 
-Submit your github repo url and be sure to add me as a contributor so I can view it.
+Submit your github pull request url and be sure to add me as a contributor so I can view it.
 
 ### Helpful links:
 
