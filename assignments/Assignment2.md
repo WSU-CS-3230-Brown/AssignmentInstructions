@@ -50,3 +50,36 @@ Choose an Operation:
 > 7
 Goodbye!
 ```
+
+Another possibility:
+```[console]
+> java Main
+Welcome to Ethan Brown's CS3230 Project!
+Please Enter a List of Integers:
+> -1 2 -3 4 -5
+Supported Commands:
+   sum - sum the integers
+   evens - find the evens
+   odds - find the odds
+   max - find the max
+   min - find the min
+   update - enter a new list of integers
+   help - show this menu
+   exit
+Enter Command: min
+Min: -5
+Enter Command: sum
+Sum: -3
+Enter Command: help
+Supported Commands:
+   sum - sum the integers
+   evens - find the evens
+   odds - find the odds
+   max - find the max
+   min - find the min
+   update - enter a new list of integers
+   help - show this menu
+   exit
+Enter Command: exit
+Goodbye!
+```
