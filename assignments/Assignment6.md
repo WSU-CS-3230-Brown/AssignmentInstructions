@@ -80,7 +80,7 @@ See Example below of use of the `TabPane` with multiple fxml files. Note the `fx
 </VBox>
 ```
 
-I would recommend putting your controllers in a sub package of `com.github.youruser.cs3230.gui.controllers`. This will require that you add a new line to your `module-info.java` file. Here's an example:
+I would recommend putting your controllers in a sub package of `com.github.youruser.cs3230.gui.controllers`. This will require that you add a new line to your `module-info.java` file (if you are not using java 8). Here's an example:
 
 ```[Java]
 module cs3230Assignments {
