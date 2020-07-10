@@ -59,7 +59,7 @@ See Example below of use of the `TabPane` with multiple fxml files. Note the `fx
 </VBox>
 ```
 
-## tab 2 fxml file ##
+## tab two fxml file ##
 
 ```[fxml]
 <?xml version="1.0" encoding="UTF-8"?>
