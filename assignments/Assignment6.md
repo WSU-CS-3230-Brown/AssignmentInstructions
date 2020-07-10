@@ -6,7 +6,7 @@ The application will have a 2nd screen or tab (probably use a TabPane) that will
 
 > IMPORTANT: Make sure you separate the controller methods into 2 classes, `NumberController` and `StringController`. This will require some refactoring.
 
-See Example below of use of the `TabPane` with multiple fxml files. Note the `fx:controller` tags in each file. You will notice that there are actually 3 controllers. The MainController may or may not need any event handlers in it unless you want to share some elements between the tabs.
+See Example below of use of the `TabPane` with multiple fxml files. Note the `fx:controller` tags in each file. You will notice that there are actually 3 controllers. The MainController may or may not need any event handlers in it unless you want to share some elements between the tabs. Also note the `source` attribute in the `Tab` objects. This is how you'll reference your other fxml files.
 
 ## Main fxml file ##
 
@@ -78,4 +78,16 @@ See Example below of use of the `TabPane` with multiple fxml files. Note the `fx
         ...
     </children>
 </VBox>
+```
+
+I would recommend putting your controllers in a sub package of `com.github.youruser.cs3230.gui.controllers`. This will require that you add a new line to your `module-info.java` file. Here's an example:
+
+```[Java]
+module cs3230Assignments {
+        requires javafx.fxml;
+        requires javafx.controls;
+
+        opens com.github.ethanbrown3.cs3230.gui.controllers;
+        opens com.github.ethanbrown3.cs3230.gui;
+}
 ```
