@@ -17,7 +17,8 @@ CS 3230 assignment instructions. I will be adding instructions and any necessary
 3. [Assignment 3 Instructions](assignments/Assignment3.md)
 4. [Assignment 4 Instructions](assignments/Assignment4.md)
 5. [Assignment 5 Instructions](assignments/Assignment5.md)
-6. [Final Project Instructions](FinalProject.md)
+6. [Assignment 6 Instructions](assignments/Assignment6.md)
+7. [Final Project Instructions](FinalProject.md)
 
 ## Turning In Assignments ##
 
