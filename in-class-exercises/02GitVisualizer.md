@@ -2,7 +2,7 @@
 
 - [Git visualizer](https://git-school.github.io/visualizing-git/)
 
-> In the dropdown in the top left select "Free Explore with Remote"
+> NOTE: In the dropdown in the top left select "Free Explore with Remote"
 
 You are a software developer for a game developer. The game you are working on has a new feature that needs to be implemented. It is an online game and we are adding vehicles that players can drive. It's going to require you to create a Vehicle class. You'll need to create a new branch for this feature.
 
