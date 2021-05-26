@@ -32,7 +32,12 @@ All assignments will be turned in using github pull requests. You will create a 
    4. ![add collaborator](images/repo-select-collaborator.png)
       * The green button will not be grayed out after you select my username. 
 3. Add a .gitignore file - [java-intellij-gitignore](https://www.gitignore.io/api/java,windows,intellij,macos)
-4. For each assignment checkout at new branch.
+4. Checkout master and pull
+    ```
+    > git checkout master
+    > git pull
+    ```
+6. For each assignment checkout at new branch.
     ```
     > git checkout -b assignment1
     > git push -u origin assignment1
