@@ -2,6 +2,29 @@
 
 Let's add some functionality to our new menu based UI. 
 
+## Part 0 - Restructure Project ##
+Modify your project structure to use a Java package. Also rename your class with your `main` method to Main and move any cli code (input and output) to it's own class name `Cli`.
+
+Example:
+```
+- cs3230Assignments
+|- A02.java
+|- Calculation.java
+|- 
+```
+TO
+```
+- cs3230Assignments
+|- com
+    |- github
+        |- ethanbrown3
+            |- cs3230
+                |- Main.java
+                |- Calculations.java
+                |- StringOperations.java
+                |- Cli.java
+```
+
 ## Part 1 - More Maths ##
 
 Add methods to your math class that will find the **mean**, [**standard deviation**](https://www.programiz.com/java-programming/examples/standard-deviation) and the [**5 number summary**](https://www.statisticshowto.com/how-to-find-a-five-number-summary-in-statistics/) for the list of numbers. 
