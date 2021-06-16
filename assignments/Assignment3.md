@@ -18,13 +18,15 @@ TO
 |- src
     |- com
         |- github
-            |- ethanbrown3
+            |- yourusername
                 |- cs3230
                     |- Main.java
                     |- Calculations.java
                     |- StringOperations.java
                     |- Cli.java
 ```
+> NOTE: `com/github/yourusername/cs3230` is the java package. Your .java files should have a line at the top that say `package com.github.yourusername.cs3230`.
+
 
 ## Part 1 - More Maths ##
 
