@@ -3,7 +3,7 @@
 Let's add some functionality to our new menu based UI. 
 
 ## Part 0 - Restructure Project ##
-Modify your project structure to use a Java package. Also rename your class with your `main` method to Main and move any cli code (input and output) to it's own class name `Cli`.
+Modify your project structure to use a Java package. Also rename your class with your `main` method to `Main` and move any cli code (code that handles user input and outputs results) to it's own class named `Cli`.
 
 Example:
 ```
