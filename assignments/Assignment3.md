@@ -15,14 +15,15 @@ Example:
 TO
 ```
 - cs3230Assignments
-|- com
-    |- github
-        |- ethanbrown3
-            |- cs3230
-                |- Main.java
-                |- Calculations.java
-                |- StringOperations.java
-                |- Cli.java
+|- src
+    |- com
+        |- github
+            |- ethanbrown3
+                |- cs3230
+                    |- Main.java
+                    |- Calculations.java
+                    |- StringOperations.java
+                    |- Cli.java
 ```
 
 ## Part 1 - More Maths ##
