@@ -10,7 +10,7 @@ Create and modify your main swing window to have all the components needed to im
 
 You will need:
 1. Some way to accept input for the users list of numbers (JTextField)
-2. Buttons for each of the operations in the number cruncher
+2. Some way for the user to execute the operations in the number cruncher
 3. Some way to display the results cleanly (JTextArea, JLabels, etc.)
    * min
    * max
@@ -31,7 +31,7 @@ Create modify your main fxml file to have all the components needed to implement
 
 You will need:
 1. Some way to accept input for the users list of numbers (TextField)
-2. Buttons for each of the operations in the number cruncher
+2. Some way for the user to execute the operations in the number cruncher
 3. Some way to display the results cleanly (TextArea, Labels, etc.)
    * min
    * max
