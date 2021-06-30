@@ -6,7 +6,7 @@
 
 The goal of this assignment is to lay the ground work for our GUI in the project. We'll start with basic layout and in later assignments will add more to it. 
 
-Create and modify your main swing window to have all the components needed to implement your number operations in the gui. I'm going to allow you the creative freedom to lay this out how you'd like but I'll give you some basic guidelines.
+Create and modify your main swing window to have all the components needed to implement your ***number operations*** in the gui. I'm going to allow you the creative freedom to lay this out how you'd like but I'll give you some basic guidelines.
 
 You will need:
 1. Some way to accept input for the users list of numbers (JTextField)
